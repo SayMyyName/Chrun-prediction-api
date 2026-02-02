@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+joblib
+xgboost
+scikit-learm
+pandas
+numpy
+lightgbm
+seaborn
+matplotlib
