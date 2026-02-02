@@ -2,7 +2,7 @@ fastapi
 uvicorn
 joblib
 xgboost
-scikit-learm
+scikit-learn
 pandas
 numpy
 lightgbm
