@@ -3,7 +3,7 @@ from pydantic import BaseModel
 import joblib
 import pandas as pd
 
-model = joblib.load('Production-Ready Machine Learning API using FastAPI\churn_model.pkl')
+model = joblib.load('churn_model.pkl')
 encoders = joblib.load('encoders.pkl')
 feature_order = joblib.load('feature_order.pkl')
 
